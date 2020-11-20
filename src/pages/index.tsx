@@ -1,8 +1,8 @@
 import Head from 'next/head'
-import styles from "../../styles/Home.module.css"
+import styles from '../../styles/Home.module.css'
 
 type Props = {
-  title: string;
+  title: string
 }
 
 export default function Home({ title = 'NextJS Boilerplate' }: Props) {
