@@ -1,5 +1,3 @@
-// Vamos importar como S para quando batermos o olho não surgir a dúvida se isso é estilo ou
-// Um componente de verdade. Quando tiver o S sabemos que é estilo
 import * as S from './styles'
 
 const Main = () => (
